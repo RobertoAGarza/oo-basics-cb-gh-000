@@ -9,5 +9,4 @@ class Shoe
   end
 
 
-
 end
